@@ -1,3 +1,3 @@
 # Block-host-adobe
-C:\Windows\System32\drivers\etc\host
-Enjoy
+# C:\Windows\System32\drivers\etc\host
+Enjoy!!!
